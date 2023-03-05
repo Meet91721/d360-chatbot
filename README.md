@@ -5,10 +5,19 @@ This is a chatbot created on Google DialogFlow which takes queries related to di
 # Installation guide
 
 
-Step 1:<br>
-Download the zip file and import this agent in google dialogflow<br>
-You can simulate this chatbot using integration option given in the dialogflow.<br>
-Step 2:<br>
-And to use this service in external file you can also use API usage code given in DialogFlow_integration.ipynb file, after adding your respective credentials.<br>
-Step 3: <br>
-After the complete setup, you can execute your query.
+Step 1:
+
+    # Download this repository
+    git clone https://github.com/Meet91721/d360-chatbot.git
+
+Step 2:  
+&nbsp;Import agent to google dialogflow using Systeme_D_agent.zip  
+
+Step 3:  
+&nbsp;You can simulate this chatbot using integration option given in the dialogflow.  
+
+Step 4:  
+&nbsp;You can also use DialogFlow_integration.ipynb file, after adding your respective credentials for using dialogflow API through Google colab.
+
+Step 5:  
+&nbsp;After the complete setup, you can execute your query.
