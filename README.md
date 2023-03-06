@@ -1,8 +1,11 @@
 # d360-chatbot
 
-This is a chatbot created on Google DialogFlow which takes queries related to diamonds. This chatbot extracts important features #provided by the company D360 as per their requirements.
+This is a chatbot created on Google DialogFlow which takes queries related to diamonds. This chatbot extracts important features/parameters from the given user query.
+The features/parameters implemented in this bot are as per the data provided by D360 Tech. during Mined Hackathon 2023 organised by CSE department, Nirma University and SUNY Binghamton University.
 
-# Installation guide
+# Problem Statement <br>
+Create a conversational AI model using Google Dialogflow that can understand natural language queries for diamonds and generate filtering parameters for a large
+inventory of diamond data # Installation guide
 
 
 Step 1:
