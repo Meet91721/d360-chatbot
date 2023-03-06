@@ -5,7 +5,8 @@ The features/parameters implemented in this bot are as per the data provided by 
 
 # Problem Statement <br>
 Create a conversational AI model using Google Dialogflow that can understand natural language queries for diamonds and generate filtering parameters for a large
-inventory of diamond data # Installation guide
+inventory of diamond data <br> 
+# Installation guide
 
 
 Step 1:
